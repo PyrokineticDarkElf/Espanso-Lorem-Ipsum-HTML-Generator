@@ -4,7 +4,7 @@ package_title: "Ipsum"
 package_desc: "More uses for Lorem Ipsum text"
 package_version: "0.1.0"
 package_author: "Josh Stapleton"
-package_original_repo: "https://github.com/Staples1010/Better-Lorem"
+package_original_repo: "https://github.com/Staples1010/ipsum"
 package_repo: "https://github.com/federico-terzi/espanso-hub-core"
 is_core: true
 featured: true
