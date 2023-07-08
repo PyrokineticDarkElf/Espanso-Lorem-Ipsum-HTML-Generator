@@ -1,4 +1,4 @@
-# Lorem Ipsum generator for Espanso
+# Lorem Ipsum HTML generator for Espanso
 This package can generate Lorem Ipsum Sentences, Paragraphs and HTML Lists.
 
 ## Usage
