@@ -65,6 +65,17 @@ matches:
         type: match
         params:
           trigger: "Lorem 2S"
+  - trigger: "Lorem 5S"
+    replace: "{{four}} {{five}}"
+    vars:
+      - name: four
+        type: match
+        params:
+          trigger: "Lorem 3S"
+      - name: five
+        type: match
+        params:
+          trigger: "Lorem 2S"
 
   # Paragraph
   - trigger: "Lorem P"
